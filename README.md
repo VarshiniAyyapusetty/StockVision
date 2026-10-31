@@ -1,5 +1,11 @@
 # StockVision – Stock Market Data Analytics & Insights
 
+## 🚀 Live Demo
+
+**Explore StockVision:** [Open Live Dashboard](https://stockvision-bvdipbw2cgzpa9t5j66735.streamlit.app/)
+
+Experience interactive stock market analysis, technical indicators, historical trends, stock comparisons, and risk analytics.
+
 An interactive educational dashboard for exploring historical stock prices, technical indicators, returns, volatility and relative performance.
 
 ## Features
