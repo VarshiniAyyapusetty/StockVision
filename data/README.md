@@ -1,0 +1,1 @@
+No market data is bundled. The app retrieves historical data at runtime through yfinance; use the Data Explorer tab to export a CSV.\n
